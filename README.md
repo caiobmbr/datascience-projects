@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-Caio%20Melo-red)](https://www.linkedin.com/in/caiobm/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/caiobmbr/datascience-projects/issues)
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="banner_v1.png" >
 </p>
 
 # Caio Melo
