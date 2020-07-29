@@ -5,13 +5,13 @@
 </p>
 
 # Caio Melo
-<sub>*Power Distribution Operations Engineer* at Energisa Tocantins</sub>
+<sub>*Engenheiro de Distribuição* na Energisa Tocantins</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Sou formado em Engenharia Elétrica pela UFMG e atualmente trabalhando no ramo de distribuição de energia na concessão do estado do Tocantins que faz parte do grupo Energisa. Sempre fui um entusiasta de tecnologia, análise de dados e o processo de tomada de decisão. 
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Com a chegada de ferramentas como Python, Jupyter notebooks e o avanço constante da área de Machine Learning, decidi me envolver mais com esse assunto e desenvolver alguns projetos para aprendizado próprio e desenvolvimento de um portfólio na área. Aqui no Github estão presentes todos os notebooks com os códigos completos e, para cada projeto, existe um post no Medium com uma linguagem de mais fácil absorção, para conseguir cada vez mais apresenar a área para mais pessoas! Portanto, me sigam no LinkedIn e no meu canal do Medium.
 
-**Background in:** Python, Machine Learning, Business Intelligence, SQL, MS Power BI, Field Service Management and Utilities
+**Background em:** Python, Machine Learning, Business Intelligence, SQL, MS Power BI, Field Service Management and Utilities
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/caiobm)
@@ -21,8 +21,9 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 ## Projetos:
 Veja as análises e projetos publicados por mim no meu canal do Medium:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Analisando os Dados do Airbnb - Buenos Aires:** (Link Github https://bit.ly/3faNMzd)
 
 ---
 
+*Intelligence is the ability to adapt to change* - Stephen Hawking
 
