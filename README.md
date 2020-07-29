@@ -7,9 +7,9 @@
 # Caio Melo
 <sub>*Engenheiro de Distribuição* na Energisa Tocantins</sub>
 
-Sou formado em Engenharia Elétrica pela UFMG e atualmente trabalhando no ramo de distribuição de energia na concessão do estado do Tocantins que faz parte do grupo Energisa. Sempre fui um entusiasta de tecnologia, análise de dados e o processo de tomada de decisão. 
+<p align="justify">Sou formado em Engenharia Elétrica pela UFMG e atualmente trabalhando no ramo de distribuição de energia na concessão do estado do Tocantins que faz parte do grupo Energisa. Sempre fui um entusiasta de tecnologia, análise de dados e o processo de tomada de decisão.</p> 
 
-Com a chegada de ferramentas como Python, Jupyter notebooks e o avanço constante da área de Machine Learning, decidi me envolver mais com esse assunto e desenvolver alguns projetos para aprendizado próprio e desenvolvimento de um portfólio na área. Aqui no Github estão presentes todos os notebooks com os códigos completos e, para cada projeto, existe um post no Medium com uma linguagem de mais fácil absorção, para conseguir cada vez mais apresenar a área para mais pessoas! Portanto, me sigam no LinkedIn e no meu canal do Medium.
+<p align="justify">Com a chegada de ferramentas como Python, Jupyter notebooks e o avanço constante da área de Machine Learning, decidi me envolver mais com esse assunto e desenvolver alguns projetos para aprendizado próprio e desenvolvimento de um portfólio na área. Aqui no Github estão presentes todos os notebooks com os códigos completos e, para cada projeto, existe um post no Medium com uma linguagem de mais fácil absorção, para conseguir cada vez mais apresenar a área para mais pessoas! Portanto, me sigam no LinkedIn e no meu canal do Medium.</p> 
 
 **Background em:** Python, Machine Learning, Business Intelligence, SQL, MS Power BI, Field Service Management and Utilities
 
