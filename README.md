@@ -22,7 +22,7 @@
 Veja as análises e projetos publicados no meu canal do Medium:
 
 * **Analisando os Dados do Airbnb - Buenos Aires:** https://bit.ly/2E4dV5J (Link Github https://bit.ly/3faNMzd)
-* **Analisando a Violência no Rio de Janeiro** (Link Github https://bit.ly/2XXTX3R)
+* **Analisando a Violência no Rio de Janeiro** https://bit.ly/3hbzHmN (Link Github https://bit.ly/2XXTX3R)
 
 ---
 
