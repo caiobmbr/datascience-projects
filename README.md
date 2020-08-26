@@ -21,9 +21,9 @@
 ## Projetos:
 Veja as análises e projetos publicados no meu canal do Medium:
 
-* **Analisando os Dados do Airbnb - Buenos Aires:** https://bit.ly/2E4dV5J (Link Github https://bit.ly/3faNMzd)
-* **Analisando a Violência no Rio de Janeiro** https://bit.ly/3hbzHmN (Link Github https://bit.ly/2XXTX3R)
-* **Panorama do COVID-19 no Brasil** https://bit.ly/32vKke6 (Link Github https://bit.ly/34xUWMl)
+* **Analisando os Dados do Airbnb - Buenos Aires:** https://bit.ly/2E4dV5J (Link Github: https://bit.ly/3faNMzd)
+* **Analisando a Violência no Rio de Janeiro** https://bit.ly/3hbzHmN (Link Github: https://bit.ly/2XXTX3R)
+* **Panorama do COVID-19 no Brasil** https://bit.ly/32vKke6 (Link Github: https://bit.ly/34xUWMl)
 
 ---
 
